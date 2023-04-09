@@ -12,7 +12,7 @@ form.addEventListener('submit', (event) => {
 
   // Crear un objeto FormData para enviar el formulario y el archivo
   const formData = new FormData();
-  formData.append('Nombre del proyecto', form.nombre.value);
+  formData.append('Nombre de tu proyecto', form.nombre.value);
   formData.append('¿DJ o Banda Versatil?', form.nombre.value);
   formData.append('Página web', form.nombre.value);
   formData.append('anios-tocando', form['anios-tocando'].value);
