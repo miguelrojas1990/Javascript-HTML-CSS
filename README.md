@@ -1,2 +1,2 @@
 # Javascript-HTML-CSS
-Este es un repositorio para mi página de renta de sonido en GDL
+Este es un repositorio para la práctica personal de páginas web
